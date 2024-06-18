@@ -1,0 +1,29 @@
+{
+    "version": "0.1.7",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/jentz/vigilant-dollop/releases/download/v0.1.7/vigilant-dollop_Windows_i386.zip",
+            "bin": [
+                "oidc-cli.exe"
+            ],
+            "hash": "363b2ecf9a6aec3f6b29b09ab5de6c1aff88d19014ec8f173a528e998206de9f"
+        },
+        "64bit": {
+            "url": "https://github.com/jentz/vigilant-dollop/releases/download/v0.1.7/vigilant-dollop_Windows_x86_64.zip",
+            "bin": [
+                "oidc-cli.exe"
+            ],
+            "hash": "485d18dd2224c43fa8234c8861e517bd43104a4288ad276a8420d8b2a4549428"
+        },
+        "arm64": {
+            "url": "https://github.com/jentz/vigilant-dollop/releases/download/v0.1.7/vigilant-dollop_Windows_arm64.zip",
+            "bin": [
+                "oidc-cli.exe"
+            ],
+            "hash": "0f93682a7374a165058c1bdfaa08e366674b681230127b98528ac46f085cdaf0"
+        }
+    },
+    "homepage": "https://github.com/jentz/vigilant-dollop",
+    "license": "MIT",
+    "description": "Command-line OIDC client, get a token without all the fuss"
+}
