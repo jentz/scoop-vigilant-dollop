@@ -1,26 +1,26 @@
 {
-    "version": "0.1.13",
+    "version": "0.1.14",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/jentz/vigilant-dollop/releases/download/v0.1.13/vigilant-dollop_Windows_i386.zip",
+            "url": "https://github.com/jentz/vigilant-dollop/releases/download/v0.1.14/vigilant-dollop_Windows_i386.zip",
             "bin": [
                 "oidc-cli.exe"
             ],
-            "hash": "6e7dc7aca400c6557cc0d337e7e9127ac4e4166182ae90d3f33c69aac8aa7e53"
+            "hash": "73b6f1e1d9d88765c926714d30f8403fc3d59f64a147e5eb85f8a89f2bc6bf81"
         },
         "64bit": {
-            "url": "https://github.com/jentz/vigilant-dollop/releases/download/v0.1.13/vigilant-dollop_Windows_x86_64.zip",
+            "url": "https://github.com/jentz/vigilant-dollop/releases/download/v0.1.14/vigilant-dollop_Windows_x86_64.zip",
             "bin": [
                 "oidc-cli.exe"
             ],
-            "hash": "739244147d178e3a4964ff9d7057646fa6cbe1ff1bf48ebf011c83a6e0ad9335"
+            "hash": "b91348e61c4d49a7dd5293a5e61702578b3a22979f5e1590a42c26779f5be21e"
         },
         "arm64": {
-            "url": "https://github.com/jentz/vigilant-dollop/releases/download/v0.1.13/vigilant-dollop_Windows_arm64.zip",
+            "url": "https://github.com/jentz/vigilant-dollop/releases/download/v0.1.14/vigilant-dollop_Windows_arm64.zip",
             "bin": [
                 "oidc-cli.exe"
             ],
-            "hash": "f092a7cfa5d518ad9ca5e0c32ba8e050e4e6d9a68532725df6d162bca5f1bbd0"
+            "hash": "05c713d38e4c635c9006c52a0a89776ba3eec1f83099c762331d3d543fa9c7e2"
         }
     },
     "homepage": "https://github.com/jentz/vigilant-dollop",
