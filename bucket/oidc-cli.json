@@ -1,29 +1,29 @@
 {
-    "version": "0.1.14",
+    "version": "0.1.15",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/jentz/vigilant-dollop/releases/download/v0.1.14/vigilant-dollop_Windows_i386.zip",
+            "url": "https://github.com/jentz/oidc-cli/releases/download/v0.1.15/oidc-cli_Windows_i386.zip",
             "bin": [
                 "oidc-cli.exe"
             ],
-            "hash": "73b6f1e1d9d88765c926714d30f8403fc3d59f64a147e5eb85f8a89f2bc6bf81"
+            "hash": "2863b2fd50afb4a00dfcfa2c38b0204c4325127a67ad17edbfad2833aea7bb89"
         },
         "64bit": {
-            "url": "https://github.com/jentz/vigilant-dollop/releases/download/v0.1.14/vigilant-dollop_Windows_x86_64.zip",
+            "url": "https://github.com/jentz/oidc-cli/releases/download/v0.1.15/oidc-cli_Windows_x86_64.zip",
             "bin": [
                 "oidc-cli.exe"
             ],
-            "hash": "b91348e61c4d49a7dd5293a5e61702578b3a22979f5e1590a42c26779f5be21e"
+            "hash": "54bc39327a302fbf0c0bf1e40c05d5a45c1682c9b8f36bc154c3a6f3393ee45e"
         },
         "arm64": {
-            "url": "https://github.com/jentz/vigilant-dollop/releases/download/v0.1.14/vigilant-dollop_Windows_arm64.zip",
+            "url": "https://github.com/jentz/oidc-cli/releases/download/v0.1.15/oidc-cli_Windows_arm64.zip",
             "bin": [
                 "oidc-cli.exe"
             ],
-            "hash": "05c713d38e4c635c9006c52a0a89776ba3eec1f83099c762331d3d543fa9c7e2"
+            "hash": "0a793141253dcf5bb1559deea24851c75d52555ea52bec2f7122e8664c4c2cf5"
         }
     },
-    "homepage": "https://github.com/jentz/vigilant-dollop",
+    "homepage": "https://github.com/jentz/oidc-cli",
     "license": "MIT",
     "description": "Command-line OIDC client, get a token without all the fuss"
 }
