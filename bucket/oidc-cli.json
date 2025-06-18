@@ -1,26 +1,26 @@
 {
-    "version": "0.1.17",
+    "version": "0.1.18",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/jentz/oidc-cli/releases/download/v0.1.17/oidc-cli_Windows_i386.zip",
+            "url": "https://github.com/jentz/oidc-cli/releases/download/v0.1.18/oidc-cli_Windows_i386.zip",
             "bin": [
                 "oidc-cli.exe"
             ],
-            "hash": "cf655796fb22fe3210ea12e2e195c81f88d9bf13aa55c65ed6395b3484b7de39"
+            "hash": "ec7c463bcf29f1164cb1e908b0bf901faf93f6e8364fce8e95c3c79fc19d0c9d"
         },
         "64bit": {
-            "url": "https://github.com/jentz/oidc-cli/releases/download/v0.1.17/oidc-cli_Windows_x86_64.zip",
+            "url": "https://github.com/jentz/oidc-cli/releases/download/v0.1.18/oidc-cli_Windows_x86_64.zip",
             "bin": [
                 "oidc-cli.exe"
             ],
-            "hash": "bec8bd3cc71e28cd954a05292239fd57c0d9fc34a9572cab8623308dfeb8ad4b"
+            "hash": "68e1a5c699113869d366d3c3c01c37666bb83153a182945c9b815d45675da241"
         },
         "arm64": {
-            "url": "https://github.com/jentz/oidc-cli/releases/download/v0.1.17/oidc-cli_Windows_arm64.zip",
+            "url": "https://github.com/jentz/oidc-cli/releases/download/v0.1.18/oidc-cli_Windows_arm64.zip",
             "bin": [
                 "oidc-cli.exe"
             ],
-            "hash": "06fa9eb383249fed29488aeae030e19959c318c418dee74c85061de4acdd5ebe"
+            "hash": "2453d910ef866dd4393ee0f48dde26903f0757d73261f81f05728a4c37551a06"
         }
     },
     "homepage": "https://github.com/jentz/oidc-cli",
